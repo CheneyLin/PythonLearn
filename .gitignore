@@ -1,0 +1,8 @@
+# Project
+_bxj*/*
+_local/*
+_design/*
+.ftpconfig
+
+# Gulp
+*/node_modules/*
